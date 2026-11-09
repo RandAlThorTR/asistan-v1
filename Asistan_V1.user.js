@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         Asistan V1
-// @namespace    https://arena.ai/klanlar-asistan-tasarim
 // @version      1.11.0-tasarim
 // @description  [TASARIM KOPYASI — deneme amaçlı] GENEL ASISTAN (TW_Op_Asistani v1.5.8 kopyası) — Klanlar (Tribal Wars TR) için zamanlı fake/kami/op asistanı + otomatik misyoner treni. Orduyu N'e böler, her satıra 1 misyoner koyar (meydanda 1. dilim, onay ekranında "Ek saldırı ekle" ile kalanlar), süre gelince milisaniyesinde tek "Saldırı gönder" ile çıkar.
-// @author       Arena.ai Agent
+// @author       Rand Al Thor
 // @match        https://*.klanlar.org/game.php*
 // @match        https://klanlar.org/game.php*
 // @run-at       document-idle
