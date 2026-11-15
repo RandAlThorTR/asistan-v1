@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Asistan V1
-// @version      1.22.0-tasarim
+// @version      1.22.1-tasarim
 // @description  Fake/Kami/Op Asistanı
 // @author       Rand Al Thor
 // @match        https://*.klanlar.org/game.php*
